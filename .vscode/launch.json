@@ -4,13 +4,11 @@
 		{
 			"type": "node",
 			"request": "launch",
-			"name": "Launch",
+			"name": "Start Project",
 			"runtimeExecutable": "npm",
 			"runtimeArgs": ["run", "start"],
 			"console": "integratedTerminal",
 			"internalConsoleOptions": "neverOpen",
-			// "program": "${workspaceFolder}/index.js",
-      		// "preLaunchTask": "tsc: build - tsconfig.json",
 		}
 	]
 }
