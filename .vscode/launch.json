@@ -7,7 +7,7 @@
 			"name": "Launch",
 			"runtimeExecutable": "npm",
 			"runtimeArgs": ["run", "start"],
-			"console": "integratedTerminal",
+			"console": "internalConsole",
 			"internalConsoleOptions": "neverOpen"
 		}
 	]
