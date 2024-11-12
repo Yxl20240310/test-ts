@@ -3,4 +3,4 @@ function printList(items: string[]) {
 }
 
 const list = ['Apple', 'Banana', 'Cherry'];
-printList(list);
+printList(list
