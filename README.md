@@ -1,4 +1,4 @@
-# 简介
+# 说明
 这是一个带有es、nodemer、prettier和dotenv模块的最小TypeScript starter
 # 开始
 - 单击 **运行** 按钮启动程序。
